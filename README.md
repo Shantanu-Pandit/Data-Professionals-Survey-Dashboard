@@ -7,11 +7,11 @@
 
 ### Project Overview
 
-This project aims to analyze the survey on data professionals and identify trends and insights related to career transition. The project will leverage several key performance indicators (KPI’s) to measure the average salary of data professionals around the world, including their favorite Programming language and other factors.
+This project aims to analyze the survey on data professionals and identify trends and insights related to career transitions. The project will leverage several key performance indicators (KPI’s) to measure the average salary of data professionals around the world, including their favorite Programming language and other factors.
 
 ### Goal:
 
- This project aims to analyze the survey on data professionals and identify trends and insights related to career transition. By doing so, the project aims to inform policy and decision-making related to career transitions, and ultimately help the data job aspirants and the professionals who looking for a change in career.
+ This project aims to analyze the survey on data professionals and identify trends and insights related to career transitions. By doing so, the project aims to inform policy and decision-making related to career transitions, and ultimately help the data job aspirants and professionals looking for a career change.
 
 ### KPIs:
 
